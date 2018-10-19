@@ -1,4 +1,4 @@
-print('Learning how to print messages with the print function.')
+print('Learning how to print messages with the print function.\n')
 
 '''
  Printing 'Hello World' to the terminal.
@@ -16,12 +16,10 @@ message = 'Hello World'
 print(message)
 '''
  By assigning the variable `message` the value 'Hello World' we are able to pass `message` to the `print()` to print 
-its value 
+ its value 
 
  For more information on variable and how they work and are used have a look into the `Var.py` file.
 '''
-
-# Todo Create var.py
 
 '''
  Printing by passing a string into a custom print function called `print_me()`.
